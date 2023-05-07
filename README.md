@@ -57,3 +57,7 @@ $ ROUTE='/' yarn build
 # single page build (getStaticPaths modified)
 $ ROUTE='/blog/[slug]' PARAMS='{"slug":""}' yarn build
 ```
+
+### Tests
+
+[Link](https://github.com/AppformAgency/Astro-ISR-integration-tests)
